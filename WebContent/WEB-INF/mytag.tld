@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<taglib>
+  <tlib-version>1.0</tlib-version>
+  <jsp-version>2.0</jsp-version>
+  <short-name>my</short-name>
+ 
+ <tag>
+ 		<name>getCat</name>
+ 		<tag-class>mypack.GetCategory</tag-class>
+ 		
+ 		<attribute>
+ 					<name>displayType</name>
+ 					<required>false</required>
+ 		</attribute>
+ 		
+ </tag>
+</taglib>

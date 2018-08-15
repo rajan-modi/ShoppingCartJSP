@@ -1,0 +1,12 @@
+mypack/GetProduct.class
+mypack/AddToCart.class
+mypack/GetCategory.class
+mypack/Payment.class
+mypack/User.class
+mypack/CategoryAdmin.class
+mypack/DeleteProduct.class
+mypack/GetUserServlet.class
+mypack/Login.class
+mypack/ProductAdmin.class
+mypack/Logout.class
+mypack/Signup.class
